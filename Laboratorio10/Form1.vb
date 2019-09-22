@@ -1,5 +1,7 @@
 ﻿Public Class laboratorio10
 
+    'Desarrollado por Antonios Sarmiento
+    'Desarrollado por Alexis Calderon
     Dim c1, c2, c3, c4 As Int16
     Dim montoTotal As Single = 0
     Const multabase As Single = 50.0
